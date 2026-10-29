@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: #efea4a;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+}
+.titulo{
+    color: #232121;
+    font-family: sans-serif;
+}
+
+

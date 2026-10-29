@@ -1,0 +1,18 @@
+
+.link {
+  padding: 10px 20px;
+  background-color: #e1d62f;
+  color: #464343;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+.nav {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  padding: 15px;
+  background-color: #5d6b78;
+  border-radius: 6px;
+  margin-top: 5px;
+}

@@ -1,0 +1,22 @@
+.titulo{
+text-align: center;
+
+
+}
+
+.div{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 15px;
+  padding: 30px;
+  background-color: #e8e8e2;
+}
+
+
+.texto{
+    text-align: center;
+    font-size: 18px;
+    color: black;
+}

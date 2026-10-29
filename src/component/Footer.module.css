@@ -1,0 +1,13 @@
+.contenedor{
+background-color: #484545;
+justify-content: center;
+flex-direction: column;
+
+}
+.titulo{
+    color: #f8fafa;
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1,5rem;
+    font-family: sans-serif;
+}
